@@ -6,7 +6,7 @@ This repository contains code examples and resources for learning PostgreSQL, a 
 
 To get started with PostgreSQL, you'll need to follow these steps:
 
-1. **Installation**: Install PostgreSQL on your local machine. You can download the installer from the [official PostgreSQL website](https://www.postgresql.org/download/). Alternatively, you can use Docker to run PostgreSQL in a container.
+1. **Installation**: Install PostgreSQL on your local machine. You can download the installer from the [official PostgreSQL website](https://www.postgresql.org/download/). Alternatively, you can use Docker to run PostgreSQL in a container or for online you can use neon as I have also used that I this repo
 
 2. **Setup**: After installing PostgreSQL, set up your database server. You may need to configure authentication, create users, and set up databases.
 
